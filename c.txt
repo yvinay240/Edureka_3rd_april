@@ -1,1 +1,2 @@
 this is my feature branch file changed on my feature branch
+This is my master branch file 
