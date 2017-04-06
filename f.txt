@@ -1,0 +1,2 @@
+Adding the lines after this file in already present in staging area
+
